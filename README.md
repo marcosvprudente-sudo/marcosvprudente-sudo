@@ -1,16 +1,20 @@
-## Hi there 👋
+#Meu nome é [Marcos Vinicius] e sou estudante de Tecnologia.
 
-<!--
-**marcosvprudente-sudo/marcosvprudente-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou iniciando minha jornada na área de tecnologia e buscando desenvolver meus conhecimentos e habilidades profissionais.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meus objetivos
+Aprender programação.
+Conhecer ferramentas de desenvolvimento.
+Criar projetos tecnológicos.
+Crescer profissionalmente na área de tecnologia.
+Áreas de interesse
+Desenvolvimento Web.
+Segurança Digital.
+Tecnologia da Informação.
+Inovação Digital.
+Tecnologias que desejo aprender
+HTML
+CSS
+JavaScript
+Git e GitHub
+Estou sempre em busca de novos conhecimentos e oportunidades de aprendizado!
